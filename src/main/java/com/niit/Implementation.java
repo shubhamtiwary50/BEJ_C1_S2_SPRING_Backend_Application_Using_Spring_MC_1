@@ -10,8 +10,8 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
  */
 public class Implementation {
     public static void main(String[] args) {
-      ApplicationContext applicationContext= new AnnotationConfigApplicationContext(BeanConfig.class);
-      Movie movie = applicationContext.getBean(Movie.class);
+        ApplicationContext applicationContext = new AnnotationConfigApplicationContext(BeanConfig.class);
+        Movie movie = applicationContext.getBean(Movie.class);
         System.out.println(movie);
     }
 }

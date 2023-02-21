@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7aa171a7-4e67-4d60-af1b-c4f69304da91" name="Changes" comment="Created the configuration package and added movie bean.">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/niit/Implementation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/niit/App.java" beforeDir="false" />
-    </list>
+    <list default="true" id="7aa171a7-4e67-4d60-af1b-c4f69304da91" name="Changes" comment="Refactored the Implementation class according to the requirements of the Question.&#10;Able to display movie name." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,7 +120,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676972161657</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Refactored the Implementation class according to the requirements of the Question.&#10;Able to display movie name.">
+      <created>1676972467662</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676972467662</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -144,6 +147,7 @@
     <MESSAGE value="added constructors for domain class movie" />
     <MESSAGE value="Added getter, setters, hashcode, equals and tostring()" />
     <MESSAGE value="Created the configuration package and added movie bean." />
-    <option name="LAST_COMMIT_MESSAGE" value="Created the configuration package and added movie bean." />
+    <MESSAGE value="Refactored the Implementation class according to the requirements of the Question.&#10;Able to display movie name." />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactored the Implementation class according to the requirements of the Question.&#10;Able to display movie name." />
   </component>
 </project>

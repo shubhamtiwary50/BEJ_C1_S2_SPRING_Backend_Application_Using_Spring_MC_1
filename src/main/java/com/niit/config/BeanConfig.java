@@ -6,8 +6,8 @@ import org.springframework.context.annotation.Bean;
 public class BeanConfig {
 
     @Bean
-    public Movie createMovie(){
-        return new Movie("Maverick","8","1.6B$",123);
+    public Movie createMovie() {
+        return new Movie("Maverick", "8", "1.6B$", 123);
     }
 
 }
